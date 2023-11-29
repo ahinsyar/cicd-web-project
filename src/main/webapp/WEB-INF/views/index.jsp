@@ -9,5 +9,6 @@
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.1</h3>
     <h2> Test For Ahinsyar </h2>
+    <h3> Version: 1.0</h3>
 </body>
 </html>
